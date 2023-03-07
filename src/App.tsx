@@ -18,7 +18,7 @@ const TaskApp: React.FC = () => {
               {text}
 
               <button onClick={() => setText(text)}>
-               set text
+               set text asd
               </button>
             </div>
           )}
