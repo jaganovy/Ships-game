@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "noImplicitAny": true,
     "target": "es5",
     "lib": [
       "dom",
@@ -24,3 +25,7 @@
     "src"
   ]
 }
+
+
+
+hey bro, I feel you what u wrote in the pfs chat about that baldness problem
